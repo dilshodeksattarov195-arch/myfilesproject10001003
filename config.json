@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersalculate",
+        "uuid": 5831442,
+        "checksum": "yvlokj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
